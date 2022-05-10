@@ -1,0 +1,1 @@
+this is a plane text for using asyncynous javascript
